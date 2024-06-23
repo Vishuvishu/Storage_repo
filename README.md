@@ -1,4 +1,3 @@
-# testrespotory
-this is testing 
+Ignore This temporary repository.
 
-this is testing respotory i have created because i am trying to create just for testing
+This repository is for string gif files or image files for my whole github profile so ignore it.
