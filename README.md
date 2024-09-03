@@ -1,3 +1,2 @@
-Ignore This temporary repository.
-
-This repository is for string gif files or image files for my whole github profile so ignore it.
+This Repository is to store all images used in my other github repositories.
+So I can manage It properly 
